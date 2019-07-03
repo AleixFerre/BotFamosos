@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1562182653 source:d:\codeblocksprojects\botfamososprova\famoso.cpp
+	"Famoso.h"
+
+1562182653 d:\codeblocksprojects\botfamososprova\famoso.h
+	<iostream>
+
+1562193617 source:d:\codeblocksprojects\botfamososprova\main.cpp
+	<iostream>
+	<cstdlib>
+	<fstream>
+	<LlistaFamosos.h>
+	<windows.h>
+
+1562186122 d:\codeblocksprojects\botfamososprova\\llistafamosos.h
+	<Famoso.h>
+	<iostream>
+
+1562182653 d:\codeblocksprojects\botfamososprova\\famoso.h
+	<iostream>
+
+1562193407 source:d:\codeblocksprojects\botfamososprova\llistafamosos.cpp
+	"LlistaFamosos.h"
+
+1562186122 d:\codeblocksprojects\botfamososprova\llistafamosos.h
+	<Famoso.h>
+	<iostream>
+
